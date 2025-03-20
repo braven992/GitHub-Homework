@@ -1,0 +1,13 @@
+# Docker
+*.tar
+*.log
+docker-compose.override.yml
+
+# IDE konfigurációk
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# GitHub Actions temp fájlok
+.github/workflows/*.bak
