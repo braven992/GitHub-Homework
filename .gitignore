@@ -11,3 +11,5 @@ docker-compose.override.yml
 
 # GitHub Actions temp fájlok
 .github/workflows/*.bak
+
+
